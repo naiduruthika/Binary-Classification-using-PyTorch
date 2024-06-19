@@ -5,11 +5,11 @@ This repository contains a PyTorch implementation of a binary classification mod
 1. Initialize a dataset
 2. Normalizing
 3. Architecture of CNN:
-   Maxpooling layer
-   Flatten layer
-   Fully connected layer
-   Activation functions: ReLU, Sigmoid
-   Loss function: Binary Cross Entropy Loss
+   Maxpooling layer,
+   Flatten layer,
+   Fully connected layer,
+   Activation functions: ReLU, Sigmoid;
+   Loss function: Binary Cross Entropy Loss;
    Optimizer: Adam
 4. Training loop
 5. Calculating the loss value
